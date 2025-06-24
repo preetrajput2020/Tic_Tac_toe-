@@ -1,2 +1,2 @@
 # Tic_Tac_toe-
-Tic Tac Toe game using java Script.
+A simple two-player Tic Tac Toe game built with HTML, CSS, and JavaScript.
